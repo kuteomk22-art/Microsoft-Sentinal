@@ -1,4 +1,4 @@
-# 🚦 Microsoft Sentinel Hands-On Projects
+# 🚦 Microsoft Sentinel Projects
 
 Welcome to my hands-on Microsoft Sentinel project repository! This collection documents my practical journey through deploying, configuring, and mastering key SOC (Security Operations Center) tasks in Microsoft Sentinel, from initial Azure setup to automation, visualization, and threat intelligence integration.
 
