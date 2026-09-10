@@ -6,19 +6,19 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 
 ## 📋 Table of Contents
 
-1. [Azure Setup for Microsoft Sentinel](#azure-setup-for-microsoft-sentinel)
-2. [Data Connectors](#data-connectors)
-3. [Analytics (Threat Detection)](#analytics-threat-detection)
-4. [MS Defender Threat Intelligence Integration](#ms-defender-threat-intelligence-integration)
-5. [Playbooks & Logic Apps (Automation)](#playbooks--logic-apps-automation)
-6. [Security Data Visualization (Workbooks)](#security-data-visualization-workbooks)
+1. [Azure Setup for Microsoft Sentinel]
+2. [Data Connectors]
+3. [Analytics (Threat Detection)]
+4. [MS Defender Threat Intelligence Integration]
+5. [Playbooks & Logic Apps (Automation)]
+6. [Security Data Visualization (Workbooks)]
 
 <br>
 
 ## 🛠️ Azure Setup for Microsoft Sentinel
 
 [**Step 1. Azure Setup for Microsoft Sentinel**  
-📄 PDF Guide](https://github.com/Mitesh2020/Microsoft-Sentinel-Hands-On/blob/main/Azure%20Setup%20for%20Sentinel.pdf)
+📄 PDF Guide]
 
 **Summary:**  
 - Create a dedicated Resource Group.
@@ -30,7 +30,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 ## 🔌 Data Connectors
 
 [**Step 2. Data Connectors in Microsoft Sentinel**  
-📄 PDF Guide](https://github.com/Mitesh2020/Microsoft-Sentinel-Hands-On/blob/main/Data%20Connectors%20in%20Microsoft%20Sentinel.pdf)
+📄 PDF Guide]
 
 **Key Skills:**  
 - Integrate threat intelligence feeds (TAXII, Pulsedive).
@@ -43,7 +43,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 ## 🧠 Analytics (Threat Detection)
 
 [**Step 3. Analytics (Threat Detection) in Microsoft Sentinel**  
-📄 PDF Guide](https://github.com/Mitesh2020/Microsoft-Sentinel-Hands-On/blob/main/Analytics%20(Threat%20Detection)%20in%20Microsoft%20Sentinel.pdf)
+📄 PDF Guide]
 
 **Labs Include:**  
 - Rule for Brute Force Attack Detection (Event ID 4625).
@@ -56,8 +56,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 ## 🌐 MS Defender Threat Intelligence Integration
 
 [**Step 4. Feeding Sentinel With MS Defender Threat Intelligence**  
-📄 PDF Guide](https://github.com/Mitesh2020/Microsoft-Sentinel-Hands-On/blob/main/Feeding%20Sentinel%20With%20MS%20Defender%20Threat%20Intelligence.pdf)
-
+📄 PDF Guide]
 **Learn How To:**  
 - Onboard Microsoft Defender Threat Intelligence data connector.
 - Import and operationalize threat indicators (IOCs).
@@ -69,7 +68,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 ## ⚡ Playbooks & Logic Apps (Automation)
 
 [**Step 5. Playbooks & Logic Apps in MS Sentinel**  
-📄 PDF Guide](https://github.com/Mitesh2020/Microsoft-Sentinel-Hands-On/blob/main/Playbooks%20%26%20Logic%20Apps%20in%20MS%20Sentinel.pdf)
+📄 PDF Guide]
 
 **Hands-On Tasks:**  
 - Creating automation rules for brute-force attack detection.
@@ -81,7 +80,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 ## 📈 Security Data Visualization (Workbooks)
 
 [**Step 6. Visualizing Security Data in MS Sentinel**  
-📄 PDF Guide](https://github.com/Mitesh2020/Microsoft-Sentinel-Hands-On/blob/main/Visualizing%20Security%20Data%20in%20MS%20Sentinel.pdf)
+📄 PDF Guide]
 
 **Focus Areas:**  
 - Build interactive dashboards (workbooks) for real security alerts.
