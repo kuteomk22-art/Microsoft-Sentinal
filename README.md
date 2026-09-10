@@ -17,8 +17,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 
 ## 🛠️ Azure Setup for Microsoft Sentinel
 
-[**Step 1. Azure Setup for Microsoft Sentinel**  
-📄 PDF Guide]
+[**Step 1. Azure Setup for Microsoft Sentinel**]
 
 **Summary:**  
 - Create a dedicated Resource Group.
@@ -29,8 +28,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 
 ## 🔌 Data Connectors
 
-[**Step 2. Data Connectors in Microsoft Sentinel**  
-📄 PDF Guide]
+[**Step 2. Data Connectors in Microsoft Sentinel**]
 
 **Key Skills:**  
 - Integrate threat intelligence feeds (TAXII, Pulsedive).
@@ -42,8 +40,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 
 ## 🧠 Analytics (Threat Detection)
 
-[**Step 3. Analytics (Threat Detection) in Microsoft Sentinel**  
-📄 PDF Guide]
+[**Step 3. Analytics (Threat Detection) in Microsoft Sentinel**]
 
 **Labs Include:**  
 - Rule for Brute Force Attack Detection (Event ID 4625).
@@ -55,8 +52,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 
 ## 🌐 MS Defender Threat Intelligence Integration
 
-[**Step 4. Feeding Sentinel With MS Defender Threat Intelligence**  
-📄 PDF Guide]
+[**Step 4. Feeding Sentinel With MS Defender Threat Intelligence**]
 **Learn How To:**  
 - Onboard Microsoft Defender Threat Intelligence data connector.
 - Import and operationalize threat indicators (IOCs).
@@ -67,8 +63,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 
 ## ⚡ Playbooks & Logic Apps (Automation)
 
-[**Step 5. Playbooks & Logic Apps in MS Sentinel**  
-📄 PDF Guide]
+[**Step 5. Playbooks & Logic Apps in MS Sentinel**]
 
 **Hands-On Tasks:**  
 - Creating automation rules for brute-force attack detection.
@@ -79,8 +74,7 @@ Welcome to my hands-on Microsoft Sentinel project repository! This collection do
 
 ## 📈 Security Data Visualization (Workbooks)
 
-[**Step 6. Visualizing Security Data in MS Sentinel**  
-📄 PDF Guide]
+[**Step 6. Visualizing Security Data in MS Sentinel**]
 
 **Focus Areas:**  
 - Build interactive dashboards (workbooks) for real security alerts.
